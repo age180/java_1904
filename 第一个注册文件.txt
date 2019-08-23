@@ -1,2 +1,6 @@
 hello world!
+<<<<<<< HEAD
 11111
+=======
+hello java
+>>>>>>> ca3ba0490bf74237339b2a2cf1625b84d1bef533
